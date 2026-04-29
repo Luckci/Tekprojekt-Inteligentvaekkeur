@@ -1,0 +1,4 @@
+fastapi
+uvicorn[standard]
+selenium>=4.21
+python-dotenv
